@@ -4,7 +4,7 @@
 - 🌱 Eu estou estudando Javascript, React/Next JS
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Futebol - Palmeiras | CSGO - Godsent | Serie - Stranger Things
-- <div align="center">
+<div align="center">
   <a href="https://github.com/WilliamFaller">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamfaller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamfaller&layout=compact&langs_count=7&theme=dracula"/>
